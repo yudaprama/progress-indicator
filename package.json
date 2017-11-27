@@ -1,0 +1,18 @@
+{
+  "name": "progress-indicator",
+  "version": "1.0.0",
+  "description": "An implement of ProgressHUB for React-Native, similar to MBProgressHUB for iOS and KProgressHUB for Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:yudaprama/progress-indicator.git"
+  },
+  "author": "PanMa",
+  "license": "ISC"
+}
