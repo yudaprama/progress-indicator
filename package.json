@@ -1,6 +1,6 @@
 {
   "name": "progress-indicator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An implement of ProgressHUB for React-Native, similar to MBProgressHUB for iOS and KProgressHUB for Android.",
   "main": "index.js",
   "scripts": {
